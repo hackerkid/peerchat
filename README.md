@@ -1,14 +1,14 @@
-###Peer Chat
+#Peer Chat
 > A Simple Chat Application implemented in Java Swing
 
 ##How to run the software
 
-* Download PeerChatServer.java and PeerChatClient.java
-* Enter javac PeerChatServer.java in terminal
-* Enter javac PeerChatClient.java in terminal
-* Enter java PeerChatServer in terminal (Started Server)
-* Enter java PeerChatClient in terminal (Started Client)
-* Enter java PeerChatClient again so that there are now two clients connected to
+Download PeerChatServer.java and PeerChatClient.java
+* `javac PeerChatServer.java in terminal`
+* `javac PeerChatClient.java in terminal`
+* `java PeerChatServer in terminal` (Started Server)
+* `java PeerChatClient in terminal` (Started Client)
+* Enter `java PeerChatClient` again so that there are now two clients connected to
 server
 
 ##Precuations
