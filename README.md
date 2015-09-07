@@ -1,5 +1,5 @@
 #Peer Chat
-> A Simple Chat Application implemented in Java Swing
+> A Simple multi client chat with encryption implemented in Java Swing
 
 ##How to run the software
 
