@@ -1,11 +1,11 @@
 #Peer Chat
 > A Simple multi client chat with encryption implemented in Java Swing
 
-##How to run the software
+##How to run the Chat
 
-Download PeerChatServer.java and PeerChatClient.java
-* `javac PeerChatServer.java in terminal`
-* `javac PeerChatClient.java in terminal`
+Download PeerChatServer.java and PeerChatClient.java. Compile and run with the following steps
+* `javac PeerChatServer.java`
+* `javac PeerChatClient.java`
 * `java PeerChatServer in terminal` (Started Server)
 * `java PeerChatClient in terminal` (Started Client)
 * Enter `java PeerChatClient` again so that there are now two clients connected to
